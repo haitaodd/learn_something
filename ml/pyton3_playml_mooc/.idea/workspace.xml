@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6e9145b-c0db-46b3-b2f8-8c87312fc4f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pyton3_playml_mooc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playml/SimpleLinearRegression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playml/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode/.idea/workspace.xml" afterDir="false" />
@@ -67,7 +60,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
